@@ -12,4 +12,4 @@ Widgets :
 External Packages  :
 - audioplayers
 
-![Image](../blob/master/xylophone.jpg)
+![Image](../master/xylophone.jpg)
