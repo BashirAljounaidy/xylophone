@@ -15,7 +15,7 @@ class XylophoneApp extends StatelessWidget {
             Expanded(
               child: FlatButton(
                 child: Container(
-                    decoration: const BoxDecoration(color: Colors.red)),
+                    decoration: const BoxDecoration(color: Color(0xff05445E))),
                 padding: EdgeInsets.all(0),
                 onPressed: () {
                   final player = AudioCache();
@@ -26,7 +26,7 @@ class XylophoneApp extends StatelessWidget {
             Expanded(
               child: FlatButton(
                 child: Container(
-                    decoration: const BoxDecoration(color: Colors.orange)),
+                    decoration: const BoxDecoration(color: Color(0xff189AB4))),
                 padding: EdgeInsets.all(0),
                 onPressed: () {
                   final player = AudioCache();
@@ -37,7 +37,7 @@ class XylophoneApp extends StatelessWidget {
             Expanded(
               child: FlatButton(
                 child: Container(
-                    decoration: const BoxDecoration(color: Colors.yellow)),
+                    decoration: const BoxDecoration(color: Color(0xff75E6DA))),
                 padding: EdgeInsets.all(0),
                 onPressed: () {
                   final player = AudioCache();
@@ -48,7 +48,7 @@ class XylophoneApp extends StatelessWidget {
             Expanded(
               child: FlatButton(
                 child: Container(
-                    decoration: const BoxDecoration(color: Colors.green)),
+                    decoration: const BoxDecoration(color: Color(0xffD4F1FA))),
                 padding: EdgeInsets.all(0),
                 onPressed: () {
                   final player = AudioCache();
@@ -59,7 +59,7 @@ class XylophoneApp extends StatelessWidget {
             Expanded(
               child: FlatButton(
                 child: Container(
-                    decoration: const BoxDecoration(color: Colors.greenAccent)),
+                    decoration: const BoxDecoration(color: Color(0xff05445E))),
                 padding: EdgeInsets.all(0),
                 onPressed: () {
                   final player = AudioCache();
@@ -70,7 +70,7 @@ class XylophoneApp extends StatelessWidget {
             Expanded(
               child: FlatButton(
                 child: Container(
-                    decoration: const BoxDecoration(color: Colors.blue)),
+                    decoration: const BoxDecoration(color: Color(0xff189AB4))),
                 padding: EdgeInsets.all(0),
                 onPressed: () {
                   final player = AudioCache();
@@ -81,7 +81,7 @@ class XylophoneApp extends StatelessWidget {
             Expanded(
               child: FlatButton(
                 child: Container(
-                    decoration: const BoxDecoration(color: Colors.purple)),
+                    decoration: const BoxDecoration(color: Color(0xff75E6DA))),
                 padding: EdgeInsets.all(0),
                 onPressed: () {
                   final player = AudioCache();
